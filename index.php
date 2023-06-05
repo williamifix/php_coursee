@@ -1,3 +1,3 @@
 <?php
-$message = "this is another as";
+$message = "this is as";
 echo $message;

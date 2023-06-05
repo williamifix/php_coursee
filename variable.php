@@ -1,4 +1,6 @@
 <?php
+echo "this is the variable tutorials";
+
 $message = "hello world";
 $count = 3;
 $price = 1.99;
